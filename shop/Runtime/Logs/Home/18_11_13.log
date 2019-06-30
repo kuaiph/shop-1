@@ -1,0 +1,9 @@
+[ 2018-11-13T22:28:18+08:00 ] ::1 /shop/
+ERR: Syntax Error in template "F:/wamp/www/shop/Home/View\Index\index.html"  on line 405 ".boxCenterList form{display:inline;}"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2018-11-13T22:32:06+08:00 ] ::1 /shop/
+ERR: Syntax Error in template "F:/wamp/www/shop/Home/View\Index\index.html"  on line 405 ".boxCenterList form{display:inline;}"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2018-11-13T22:42:34+08:00 ] ::1 /shop/index.php/Home/Good/__MODULE__/Good/gwc2
+ERR: 非法操作:__MODULE__
+

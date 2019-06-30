@@ -1,0 +1,192 @@
+[ 2018-11-13T22:22:26+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:26:43+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:26:45+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:46:18+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:46:18+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:46:28+08:00 ] ::1 /shop/index.php/Admin/Product/show
+ERR: 无法加载控制器:Product
+
+[ 2018-11-13T22:46:51+08:00 ] ::1 /shop/index.php/Admin/Product/show
+ERR: 无法加载控制器:Product
+
+[ 2018-11-13T22:46:53+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:46:53+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:46:55+08:00 ] ::1 /shop/index.php/Admin/Good/show
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2018-11-13T22:47:19+08:00 ] ::1 /shop/index.php/Admin/Good/show
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2018-11-13T22:47:19+08:00 ] ::1 /shop/index.php/Admin/Good/show
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2018-11-13T22:47:20+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:47:20+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:47:22+08:00 ] ::1 /shop/index.php/Admin/Good/show
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2018-11-13T22:47:22+08:00 ] ::1 /shop/index.php/Admin/Good/show
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2018-11-13T22:47:28+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:47:28+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:47:29+08:00 ] ::1 /shop/index.php/Admin/Good/show
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2018-11-13T22:47:30+08:00 ] ::1 /shop/index.php/Admin/Good/show
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2018-11-13T22:47:49+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:47:49+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:47:50+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:47:51+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:49:24+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:49:29+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:50:01+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:51:13+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:51:13+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:51:15+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:51:16+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:51:18+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:51:19+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:51:41+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:53:10+08:00 ] ::1 /shop/index.php/Admin/Good/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-13T22:53:49+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:53:49+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:56:03+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:56:04+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T22:57:06+08:00 ] ::1 /shop/index.php/Admin/Good/__CONTROLLER__/add
+ERR: 非法操作:__CONTROLLER__
+
+[ 2018-11-13T22:57:34+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:06:20+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:06:20+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:07:08+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:07:08+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:09:31+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:09:41+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:22:55+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:22:57+08:00 ] ::1 /shop/index.php/Admin/Good/show
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\show.html"  on line 43 "{foreach $info $k=&gt;$v}"  - Unexpected "=>", expected one of: "}" , " "
+
+[ 2018-11-13T23:24:13+08:00 ] ::1 /shop/index.php/Admin/Good/show
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\show.html"  on line 43 "{foreach $info $k=&gt;$v}"  - Unexpected "=>", expected one of: "}" , " "
+
+[ 2018-11-13T23:25:33+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:26:49+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:27:30+08:00 ] ::1 /shop/index.php/Admin/Good/update/good_id/4
+ERR: 参数错误或者未定义:goos_name
+
+[ 2018-11-13T23:27:48+08:00 ] ::1 /shop/index.php/Admin/Good/update/good_id/4
+ERR: 参数错误或者未定义:good_name
+
+[ 2018-11-13T23:31:22+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:35:15+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:38:07+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:38:07+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:38:35+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:49:56+08:00 ] ::1 /shop/index.php/Admin/Good/update/good_id/4
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Good\update.html"  on line 15 "&lt;a style=&quot;text-decoration: none&quot; href=&quot;{__CONTROLLER__}/show&quot;&gt;【返回】&lt;/a&gt;" unknown tag "__CONTROLLER__"
+
+[ 2018-11-13T23:50:47+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:50:48+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:51:48+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2018-11-13T23:52:56+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20Admin_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+

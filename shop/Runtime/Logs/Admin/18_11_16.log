@@ -1,0 +1,45 @@
+[ 2018-11-16T12:27:50+08:00 ] ::1 /shop/index.php/Admin/Index/left
+ERR: SQLSTATE[42S22]: Column not found: 1054 Champ 'auth_ids' inconnu dans where clause
+
+[ 2018-11-16T13:07:06+08:00 ] ::1 /shop/index.php/Admin/Index/left
+ERR: SQLSTATE[42S22]: Column not found: 1054 Champ 'auth_ids' inconnu dans where clause
+
+[ 2018-11-16T13:14:26+08:00 ] ::1 /shop/index.php/Admin/Index/left
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Index\left.html"  on line 44 "{foreach $auth_infoB as $kk-&gt;$vv}"  - Unexpected "->", expected one of: "}" , " "
+
+[ 2018-11-16T13:14:26+08:00 ] ::1 /shop/index.php/Admin/Index/left
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Index\left.html"  on line 44 "{foreach $auth_infoB as $kk-&gt;$vv}"  - Unexpected "->", expected one of: "}" , " "
+
+[ 2018-11-16T13:14:41+08:00 ] ::1 /shop/index.php/Admin/Index/left
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Index\left.html"  on line 44 "{foreach $auth_infoB as $kk-&gt;$vv}"  - Unexpected "->", expected one of: "}" , " "
+
+[ 2018-11-16T13:41:53+08:00 ] ::1 /shop/index.php/Admin/Index/Good/show
+ERR: 非法操作:Good
+
+[ 2018-11-16T13:46:30+08:00 ] ::1 /shop/index.php/Admin/Auth/showlist
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2018-11-16T13:46:33+08:00 ] ::1 /shop/index.php/Admin/Auth/showlist
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2018-11-16T13:47:43+08:00 ] ::1 /shop/index.php/Admin/Auth/showlist
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2018-11-16T13:48:09+08:00 ] ::1 /shop/index.php/Admin/Auth/showlist
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Auth\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2018-11-16T13:48:09+08:00 ] ::1 /shop/index.php/Admin/Auth/showlist
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Auth\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2018-11-16T13:48:26+08:00 ] ::1 /shop/index.php/Admin/Auth/css/mine.css
+ERR: 非法操作:css
+
+[ 2018-11-16T14:42:12+08:00 ] ::1 /shop/index.php/Admin/Role/showlist
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Role\showlist.html"  on line 47 "&lt;td&gt;&lt;a href=&quot;{$smarty.cosnt.__CONTROLLER__}/distribute/role_id/{$v.role_id}&quot;&gt;修改&lt;/a&gt;" $smarty.cosnt is invalid
+
+[ 2018-11-16T14:48:10+08:00 ] ::1 /shop/index.php/Admin/Role/distribute/role_id/10
+ERR: Syntax Error in template "F:/wamp/www/shop/Admin/View\Role\distribute.html"  on line 47 "&lt;input type=&quot;checkbox&quot; name=&quot;auth_id[]&quot; value=&quot;{$vv.auth_id&quot;&gt;"  - Unexpected """, expected one of: "}" , " "
+
+[ 2018-11-16T15:49:34+08:00 ] ::1 /shop/index.php/Admin/Auth/tianjia
+ERR: 非法操作:tianjia
+
